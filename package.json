@@ -1,0 +1,15 @@
+{
+  "name": "node-js-sample",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "start": "HelloWorld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackhawkee/nodejs_helloworld.git"
+  },
+  "author": "premson",
+  "license": "OPEN"
+}
